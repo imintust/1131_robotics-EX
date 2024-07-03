@@ -205,6 +205,9 @@ https://www.autodesk.com/education/support
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
 
+### : ABB Robot Manuals
+1. Robot Manual:
+    https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
 ### :small_blue_diamond: EPSON manuals
 1. EPSON manual:
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide-rc700a_rc90_t(v73r4).pdf  
