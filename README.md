@@ -2,8 +2,8 @@
 Training course - ESPSON and ABB robots
 
 # 113 Introduction to Robotics Tutorial 
-## ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
-## SI5302701 Graduate Institute of Intelligent Manufacturing Tech., NTUST.  
+## (add course code here) Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
+## (add course code here) Graduate Institute of Intelligent Manufacturing Tech., NTUST.  
 :bulb: In this class, the students can learn the basics of manipulating industrial robot arms (EPSON robot) operation. The class introduces two types of robots 6-Axis robots. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot. 
 ## :beginner: Exercises and resources
 - Basic and Challenging tasks: (by team)
