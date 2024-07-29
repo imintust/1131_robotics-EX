@@ -1,7 +1,7 @@
 # 1131_robotics-EX
 Training course - ESPSON and ABB robots
 
-# 113 Introduction to Robotics Tutorial 
+# 113 Introduction to Robotics Tutorial (EPSON)
 ## (add course code here) Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
 ## (add course code here) Graduate Institute of Intelligent Manufacturing Tech., NTUST.  
 :bulb: In this class, the students can learn the basics of manipulating industrial robot arms (EPSON robot) operation. The class introduces two types of robots 6-Axis robots. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot. 
@@ -135,21 +135,16 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
    - WEINTEK forum (EPSON): https://forum.weintekusa.com/t/epson/669
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
    - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
-## :eight_pointed_black_star: Machine vision 
-1. Introduction the basic knowledge of Machine vision    
-2. Knowledge of Hardware  
-   -how to choose camera/lens according to spec  
-   -how to choose lights according to spec  
-4. Knowledge of Software  
-   -Python (string, number, loop, function...)
-5. Vision library  
-   -OpenCV library  
-   -NI Vision (Optional)
-### :small_blue_diamond: Vision software
-1. Python download: https://www.python.org/downloads/    
-2. PyCharm IDE download : https://www.jetbrains.com/pycharm/download/?section=windows  
-3. Python OpenCV: https://pypi.org/project/opencv-python/
-4. Colab Demo : https://colab.research.google.com/drive/1-fFviwLNJBtvoa2tp_eKlBeV0h546U0o?usp=sharing
+
+# Robot Machine visio Tutorial (ABB)
+## Software installation - ABB robotstudio
+### Download link: 
+
+## Hardware datasheet - ABB IRB=1090
+### :small_blue_diamond: ABB Robot Manuals
+1. Robot Manual:
+    https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
+
 
 ## 📈  Final exam tasks (competition) (TBD):
 Each team should complete the following tasks in 30 minutes. 
@@ -205,9 +200,6 @@ https://www.autodesk.com/education/support
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
 
-### :small_blue_diamond: ABB Robot Manuals
-1. Robot Manual:
-    https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
 ### :small_blue_diamond: EPSON manuals
 1. EPSON manual:
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide-rc700a_rc90_t(v73r4).pdf  
