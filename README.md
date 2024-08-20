@@ -1,10 +1,19 @@
 # 1131_robotics-EX
+Training materials for the courses ME4609301 and SI5302701.
 ### ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
 ### SI5302701 Graduate Institute of Intelligent Manufacturing Tech., NTUST. 
-:bulb: Training materials for the courses ME4609301 and SI5302701. 
-- Exercises: Basic and Challenge
-- Resource:
-- Manual and Reference:
+bulb: Students start manipulating the EPSON robot by doing basic exercises like pick-n-place and stacking at the beginning. Then, include the I/O develop higher-level skills. 
+- Exercises:
+  - Basic
+  - Challenge
+  - Assessment
+- Resources:
+  - Demo program (pick-n-place)
+  - 3D models (End-effector, Fixtures, Tray, token)
+  - I/O Wiring diagram 
+  - HMI
+  - 3D printer
+- Manuals and Reference:
   - EPSON robot
   - ABB robot (For ME4609301)
   - Jetbot (For SI5302701 course)
