@@ -9,7 +9,7 @@ Training materials for the courses ME4609301 and SI5302701.
 #### Optional 
 - Option 1: ABB Machine Vision (For ME4609301 only)
 - Option 2: Autonomous Mobile Robot, Jetbot (For SI5302701 only)  
-## Contents
+#### Contents
 - Exercises:
   - Basic
   - Challenge
@@ -24,16 +24,8 @@ Training materials for the courses ME4609301 and SI5302701.
   - EPSON robot
   - ABB robot (For ME4609301)
   - Jetbot (For SI5302701 course)
-
-The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot. 
-# 1121 Introduction to Robotics Tutorial 
- 
-
-# 113 Introduction to Robotics Tutorial (EPSON)
-## (add course code here) Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
-## (add course code here) Graduate Institute of Intelligent Manufacturing Tech., NTUST.  
-:bulb: In this class, the students can learn the basics of manipulating industrial robot arms (EPSON robot) operation. The class introduces two types of robots 6-Axis robots. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot. 
-## :beginner: Exercises and resources
+## Exercises
+### :beginner: Exercises and resources
 - Basic and Challenging tasks: (by team)
     - [ ] Basic tasks
     - [ ] Challenging tasks
@@ -59,7 +51,7 @@ The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, b
 - Extra-exercise time booking: 
     - [ ] 2 shifts per week. (3 hours/shift)
 
-## :triangular_flag_on_post: Basic and Challenging tasks
+### :triangular_flag_on_post: Basic and Challenging tasks
 The suggested basic tasks can help students familiarize the setting of the World, Local, and Tool coordinates with the robots and utilize essential functions and commands.
 The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without detailed instructions. Students should use their creativity to leverage the functions and commands they learned in the lectures and robot manuals.
 
