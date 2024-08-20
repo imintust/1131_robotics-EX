@@ -10,7 +10,7 @@ Training materials for the courses ME4609301 and SI5302701.
 🥉Optional 
 - Option 1: ABB Machine Vision (For ME4609301 only)
 - Option 2: Autonomous Mobile Robot, Jetbot (For SI5302701 only)  
-#### Contents
+## Contents
 - Exercises:
   - Basic
   - Challenge
