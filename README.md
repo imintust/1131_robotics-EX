@@ -26,36 +26,13 @@ Training materials for the courses ME4609301 and SI5302701.
   - ABB robot (For ME4609301)
   - Jetbot (For SI5302701 course)
 ## Exercises introduction 
-### :beginner: Exercises 
-- Basic and Challenging tasks: (by team)
-    - [ ] Basic tasks
-    - [ ] Challenging tasks
-- Mechanical design and assembling: (group A and B collaboration)  
-    - [ ] Gripper
-    - [ ] Cylinder
-    - [ ] Instruction and reference
-- Electrical design and wiring: (group A and B collaboration)
-    - [ ] I/O box
-    - [ ] HMI
-    - [ ] Instruction and reference 
-- Level of capability: 
-    - [ ] Level 1,2,3,4,5.
-- Resources (CAD files, manuals): 
-    - [ ] CAD software
-    - [ ] CAD files (tool, fixture, tray...)
-    - [ ] CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
-    - [ ] EPSON manuals
-- Extra-exercise time booking: 
-    - [ ] 2 shifts per week. (3 hours/shift)
-
 ### :triangular_flag_on_post: Basic and Challenging tasks
 The suggested basic tasks can help students familiarize the setting of the World, Local, and Tool coordinates with the robots and utilize essential functions and commands.
 The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without detailed instructions. Students should use their creativity to leverage the functions and commands they learned in the lectures and robot manuals.
 
 ### Basic tasks
 - Task 1. Exploring the robot envelop and the work cell:
-
-Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed the calibration)
+Install tools and components (feeder, fixture, tray) and explore their coordinates with tools (extra parts may be required to proceed with the calibration)
 1. Define the World (local0), Local, tool(tool0), tool coordinates. (Based on the robots and works cell)
 2. Measure the tool dimension and the center offset between tool0(J6, robot) and tools.(Tool1: gripper, Tool2: vacuum nozzle)
 3. Decide the space between "objects"(tokens and blocks) at pick-up and approach gap when place
@@ -92,8 +69,8 @@ Exercise: Insert CAD models in a robot envelope.
 2. GUI#2 - Move tokens and blocks into the tray from feeder to tray (fixture optional); one button forward and one return.
 - ##### B. Tools: 
 1. I/O box: Start (Green), Reset (Org), Stop (Red); Forward(Blue), Reverse(White)
-2. HMI: create the button on the touch screen
-3. EPSON robot GUI: create the button on the touch screen
+2. HMI: create the button on the touchscreen
+3. EPSON robot GUI: create the button on the touchscreen
   
 - #### Task 6. Others (optional)
 - ##### A. Response to unexpected issues: 
@@ -106,7 +83,7 @@ Exercise: Insert CAD models in a robot envelope.
 2. Reset function 
 3. Self-awareness (diagnosis)
 
-## 📈  Final exam tasks (competition) (TBD):
+## 📈  Final exam tasks (competition):
 Each team should complete the following tasks in 30 minutes. 
 1. Basic Task 1: Pick-n-Place
    Criterion 
@@ -119,13 +96,12 @@ Each team should complete the following tasks in 30 minutes.
    - Stack up tokens and blocks alternatively. (five tokens and five blocks)  
    Score
    - Total Time (the team with the shortest time wins)
-3. Integration task:
-   Criterion:
-   - Adding the challenge tasks in the tasks.
-   - with self-design fixtures
-   - with I/O box, HMI
+3. Integration task: (refer to the challenging tasks)
+   - Create at least self-design fixtures
+   - Integrate I/O box or HMI in process
+   - Other Creativity 
 
-## 📈  Level of achievement:
+## 📈  Level of Capability:
 
 To measure the capability of implementation of a robotic project.
 
@@ -135,9 +111,9 @@ To measure the capability of implementation of a robotic project.
 | 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
 | 03   |Can plan process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
 | 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore system by interference.|
-| 05   |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
+| 05   |Can perform continuous operation with auto restore capability response to anomaly detection and continue to operate | Automatically drop the token or block when an anomaly is detected and restored. |  
 
-The goal is to make the robot automatically run without human intervention. Also, the program should be flexible to modify for various processing changes.  
+The goal is to make the robot run automatically without human intervention. The program should also be flexible enough to accommodate various processing changes.  
 
 
 ## :joystick: Mechanical design and assembling: (group A and B collaboration)
