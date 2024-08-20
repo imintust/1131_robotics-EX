@@ -24,8 +24,8 @@ Training materials for the courses ME4609301 and SI5302701.
   - EPSON robot
   - ABB robot (For ME4609301)
   - Jetbot (For SI5302701 course)
-## Exercises
-### :beginner: Exercises and resources
+## Exercises introduction 
+### :beginner: Exercises 
 - Basic and Challenging tasks: (by team)
     - [ ] Basic tasks
     - [ ] Challenging tasks
@@ -36,11 +36,7 @@ Training materials for the courses ME4609301 and SI5302701.
 - Electrical design and wiring: (group A and B collaboration)
     - [ ] I/O box
     - [ ] HMI
-    - [ ] Instruction and reference
-- Machine visions 
-    - [ ] Hardware Camera/Lens/Lights
-    - [ ] Software Python and OpenCV 
-    - [ ] Pattern Match        
+    - [ ] Instruction and reference 
 - Level of capability: 
     - [ ] Level 1,2,3,4,5.
 - Resources (CAD files, manuals): 
@@ -109,6 +105,40 @@ Exercise: Insert CAD models in a robot envelope.
 2. Reset function 
 3. Self-awareness (diagnosis)
 
+## 📈  Final exam tasks (competition) (TBD):
+Each team should complete the following tasks in 30 minutes. 
+1. Basic Task 1: Pick-n-Place
+   Criterion 
+   - Completed the movement of three tokens and three blocks from the Feeder to the Fixture and then to the Tray by order.   
+   - Conduct the movement reversely, from Tray to Feeder directly. (Skip the fixture cell)
+   Score
+   - Total Time (the team with the shortest time wins)
+2. Basic Task 2: Stack-up
+   Criterion 
+   - Stack up tokens and blocks alternatively. (five tokens and five blocks)  
+   Score
+   - Total Time (the team with the shortest time wins)
+3. Integration task:
+   Criterion:
+   - Adding the challenge tasks in the tasks.
+   - with self-design fixtures
+   - with I/O box, HMI
+
+## 📈  Level of achievement:
+
+To measure the capability of implementation of a robotic project.
+
+|     **Level**    |   **Capbility**  |**Example assignments** |
+|:------------------:|:------------------------------:|:---------:|
+| 01   | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
+| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
+| 03   |Can plan process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
+| 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore system by interference.|
+| 05   |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
+
+The goal is to make the robot automatically run without human intervention. Also, the program should be flexible to modify for various processing changes.  
+
+
 ## :joystick: Mechanical design and assembling: (group A and B collaboration)
 In this sector, students learn how to design the mechanical parts for the gripper on the robot and the cylinder on the peripherals and print and assemble them on the robot system. 
 - #### Gripper
@@ -156,7 +186,7 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
    - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
 
-# Robot Machine visio Tutorial (ABB)
+## Robot Machine visio Tutorial (ABB)
 ## Software installation - ABB robotstudio
 ### Download link: 
 
@@ -166,38 +196,6 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
     https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
 
 
-## 📈  Final exam tasks (competition) (TBD):
-Each team should complete the following tasks in 30 minutes. 
-1. Basic Task 1: Pick-n-Place
-   Criterion 
-   - Completed the movement of three tokens and three blocks from the Feeder to the Fixture and then to the Tray by order.   
-   - Conduct the movement reversely, from Tray to Feeder directly. (Skip the fixture cell)
-   Score
-   - Total Time (the team with the shortest time wins)
-2. Basic Task 2: Stack-up
-   Criterion 
-   - Stack up tokens and blocks alternatively. (five tokens and five blocks)  
-   Score
-   - Total Time (the team with the shortest time wins)
-3. Integration task:
-   Criterion:
-   - Adding the challenge tasks in the tasks.
-   - with self-design fixtures
-   - with I/O box, HMI
-
-## 📈  Level of achievement:
-
-To measure the capability of implementation of a robotic project.
-
-|     **Level**    |   **Capbility**  |**Example assignments** |
-|:------------------:|:------------------------------:|:---------:|
-| 01   | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
-| 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
-| 03   |Can plan process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
-| 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore system by interference.|
-| 05   |Can perform the continuous operation with auto restore capability response to the anomaly detection and continue to operate | Automatic drop the token or block when an anomaly is detected and restored. |  
-
-The goal is to make the robot automatically run without human intervention. Also, the program should be flexible to modify for various processing changes.  
 
 ## :feet: Resources (CAD files, manuals):
 CAD software, files, and manuals.
