@@ -12,9 +12,10 @@ Training materials for the courses ME4609301 and SI5302701.
 - Option 2: Autonomous Mobile Robot, Jetbot (For SI5302701 only)  
 ## Contents
 - Exercises:
-  - Basic
-  - Challenge
-  - Assessment
+  - Basic tasks
+  - Challenging tasks
+  - Final exam tasks (competition)
+  - Level of Capability:
 - Resources:
   - Demo program (pick-n-place)
   - 3D models (End-effector, Fixtures, Tray, token)
@@ -83,7 +84,7 @@ Exercise: Insert CAD models in a robot envelope.
 2. Reset function 
 3. Self-awareness (diagnosis)
 
-## 📈  Final exam tasks (competition):
+### 📈  Final exam tasks (competition):
 Each team should complete the following tasks in 30 minutes. 
 1. Basic Task 1: Pick-n-Place
    Criterion 
@@ -101,7 +102,7 @@ Each team should complete the following tasks in 30 minutes.
    - Integrate I/O box or HMI in process
    - Other Creativity 
 
-## 📈  Level of Capability:
+### 📈  Level of Capability:
 
 To measure the capability of implementation of a robotic project.
 
@@ -114,9 +115,8 @@ To measure the capability of implementation of a robotic project.
 | 05   |Can perform continuous operation with auto restore capability response to anomaly detection and continue to operate | Automatically drop the token or block when an anomaly is detected and restored. |  
 
 The goal is to make the robot run automatically without human intervention. The program should also be flexible enough to accommodate various processing changes.  
-
-
-## :joystick: Mechanical design and assembling: (group A and B collaboration)
+## Resources:
+### :joystick: Mechanical design and assembling: (group A and B collaboration)
 In this sector, students learn how to design the mechanical parts for the gripper on the robot and the cylinder on the peripherals and print and assemble them on the robot system. 
 - #### Gripper
 1. Design "Finger"
