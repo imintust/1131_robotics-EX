@@ -1,5 +1,12 @@
 # 1131_robotics-EX
-Training course - ESPSON and ABB robots
+:bulb: Training materials for the courses ME4609301 and SI5302701. 
+Students can access the to train students on the basics of manipulating industrial robot arms operation.
+
+
+The class introduces two types of robots, Pro-6-Axis robots, and SCARA robots, but only utilizes Pro-6-Axis robots in exercises. The main subjects include Introduction to Industrial Robot Arm, Software and Simulation, Calibration and Alignment, I/O port Communication, Human-machine interface (HMI), and Machine vision. Ultimately, the students can design an automatic work cell with the robot. 
+# 1121 Introduction to Robotics Tutorial 
+## ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
+## SI5302701 Graduate Institute of Intelligent Manufacturing Tech., NTUST.  
 
 # 113 Introduction to Robotics Tutorial (EPSON)
 ## (add course code here) Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
