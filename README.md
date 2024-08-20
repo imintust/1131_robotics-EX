@@ -2,7 +2,7 @@
 Training materials for the courses ME4609301 and SI5302701.
 ### ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
 ### SI5302701 Graduate Institute of Intelligent Manufacturing Tech., NTUST. 
-bulb: Students start manipulating the EPSON robot by doing basic exercises like pick-n-place and stacking at the beginning. Then, include the I/O develop higher-level skills. 
+:bulb: Students start manipulating the EPSON robot by doing basic exercises like pick-n-place and stacking at the beginning. Then, include the I/O develop higher-level skills. 
 - Exercises:
   - Basic
   - Challenge
