@@ -2,7 +2,7 @@
 Training materials for the courses ME4609301 and SI5302701.
 ### ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
 ### SI5302701 Graduate Institute of Intelligent Manufacturing Tech., NTUST. 
-:bulb: Students start manipulating the EPSON robot by doing basic exercises like pick-n-place and stacking at the beginning. Then, include the I/O develop higher-level skills. 
+bulb: This training course utilizes two types of robots, EPSON and ABB. The EPSON robots are the primary ones used to develop manipulating skills and the final project for students. The ABB robot is only for learning machine vision in the second half of the semester. Students start the basic exercises like picking-n-place and stacking with the robot (EPSON), then integrate I/O and accessories to achieve higher-level logical control and manipulating skills. The capability of using a robot is defined in five levels. Each level represents the complexity of the operation the robotic system can handle. 
 - Exercises:
   - Basic
   - Challenge
