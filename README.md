@@ -165,12 +165,15 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
 
 # Robot Machine visio Tutorial (ABB)
 ## Software installation - ABB robotstudio
-### Download link: 
-
-## Hardware datasheet - ABB IRB=1090
+### Software RobotStudio Suite:
+- https://new.abb.com/products/robotics/robotstudio
+## Hardware Robot - ABB IRB 1090
 ### :small_blue_diamond: ABB Robot Manuals
 1. Robot Manual:
     https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
+## Controller OmniCore E10 Controller:
+- https://new.abb.com/products/robotics/controllers/omnicore/omnicore-e10
+
 
 
 
