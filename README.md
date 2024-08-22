@@ -1,5 +1,7 @@
 # 1131_robotics-EX
-Training materials for the courses ME4609301 and SI5302701.
+Training materials for the courses [ME4609301] Introduction to Robotics Tutorial
+ and [SI5302701] Autonomous Mobile Vehicles and Robots Introduction
+.
 - ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
 - SI5302701 Graduate Institute of Intelligent Manufacturing Tech., NTUST
 ####
@@ -12,7 +14,7 @@ Training materials for the courses ME4609301 and SI5302701.
   1. Feeder to Tray (in Field of Vision): Use the camera to identify the coordinates of cavities on the tray and conduct pick-and-place from feeder to tray. ( three tokens and three blocks)
   2. Random tokens (in Field of Vision) to Tray: Use the camera to identify the three tokens and three blocks randomly spread on the platform, pick them up, and place them back on the tray.  
 - Option 2: Autonomous Mobile Robot, Jetbot (For SI5302701 only)
-  - Build a Jetbot: https://jetbot.org/master/index.html   
+  - Build a Jetbot:  https://jetbot.org/master/index.html   
 ## Contents
 - Exercises:
   - Basic tasks
