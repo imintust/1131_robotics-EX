@@ -1,4 +1,4 @@
-# 1131_robotics-EX
+# 1131 Robotics-EX
 Training materials for the courses [ME4609301] Introduction to Robotics Tutorial
  and [SI5302701] Autonomous Mobile Vehicles and Robots Introduction
 .
