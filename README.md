@@ -10,10 +10,10 @@ Training materials for the courses [ME4609301] Introduction to Robotics Tutorial
 🥈Students start the basic exercises like picking-n-place and stacking with the robot (EPSON), then integrate I/O and accessories to achieve higher-level logical control and manipulating skills. The capability of using a robot is defined in five levels. Each level represents the complexity of the operation the robotic system can handle.
 #### 
 🥉Optional 
-- Option 1: ABB Machine Vision (For ME4609301 only)
+- Option 1: ABB Machine Vision (**For ME4609301 only**)
   1. Feeder to Tray (in Field of Vision): Use the camera to identify the coordinates of cavities on the tray and conduct pick-and-place from feeder to tray. ( three tokens and three blocks)
   2. Random tokens (in Field of Vision) to Tray: Use the camera to identify the three tokens and three blocks randomly spread on the platform, pick them up, and place them back on the tray.  
-- Option 2: Autonomous Mobile Robot, Jetbot (For SI5302701 only)
+- Option 2: Autonomous Mobile Robot, Jetbot **(For SI5302701 only)**
   - Build a Jetbot:  https://jetbot.org/master/index.html   
 ## Contents
 - Exercises:
