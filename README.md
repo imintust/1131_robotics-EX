@@ -23,7 +23,7 @@ Training materials for the courses **[ME4609301] Introduction to Robotics Tutori
 #### 3.Manuals and Reference:
   - EPSON robot, ABB robot (For ME4609301), Jetbot (For SI5302701 course)
 #### 4.Demo Video 
-## Exercises
+## 1.Exercises
 ### :triangular_flag_on_post: Basic and Challenging tasks
 The suggested basic tasks can help students familiarize the setting of the World, Local, and Tool coordinates with the robots and utilize essential functions and commands.
 The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without detailed instructions. Students should use their creativity to leverage the functions and commands they learned in the lectures and robot manuals.
@@ -112,7 +112,7 @@ To measure the capability of implementation of a robotic project.
 | 05   |Can perform continuous operation with auto restore capability response to anomaly detection and continue to operate | Automatically drop the token or block when an anomaly is detected and restored. |  
 
 The goal is to make the robot run automatically without human intervention. The program should also be flexible enough to accommodate various processing changes.  
-## Resources:
+## 2.Resources:
 ### :joystick: Mechanical design and assembling: (group A and B collaboration)
 In this sector, students learn how to design the mechanical parts for the gripper on the robot and the cylinder on the peripherals and print and assemble them on the robot system. 
 - #### Gripper
@@ -137,7 +137,7 @@ In this sector, students learn how to design the mechanical parts for the grippe
    - Roland Technical Support: https://www.rolanddga.com/support/products/3d-printing-devices
    - Tutorial video: https://www.youtube.com/watch?v=uk_OII4pgcA
    - Taiwan Agent: http://www.twinsoft.com.tw/ARM-10/ARM10.htm  
-## :eight_pointed_black_star: Electrical design and wiring: (group A and B collaboration)
+### :eight_pointed_black_star: Electrical design and wiring: (group A and B collaboration)
 In this sector, students learn how to illustrate the wiring diagrams for the I/O box and HMI and conduct the wiring and assembly to the I/O Bus of the EPSON robot.
 - #### I/O box:
 1. Illustrate wiring diagram (.pdf)
@@ -196,6 +196,7 @@ https://www.autodesk.com/education/support
 1. Chelic components download: https://chelic.partcommunity.com/
 
 ### :small_blue_diamond: EPSON manuals
+## 3.Manual and Reference
 1. EPSON manual:
 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide-rc700a_rc90_t(v73r4).pdf  
 2. Delta HMI manual: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://filecenter.deltaww.com/Products/download/06/060302/Manual/DELTA_IA-HMI_DOPSoft_UM_EN_20211230.pdf
