@@ -5,7 +5,7 @@ Training materials for the courses **[ME4609301] Introduction to Robotics Tutori
 - ME4609301 Mechanical Engineering Department, Taiwan-Paraquay Polytechnic University
 - SI5302701 Graduate Institute of Intelligent Manufacturing Tech., National Taiwan University of Science and Technology
 ####
-🥇This training course utilizes two types of robots, EPSON C3-600 (C4-600) and ABB IRB 1090. The EPSON robots are the primary ones used to develop manipulating skills and the final project for students. The ABB robot is only for learning machine vision in the second half of the semester. 
+🥇This training course utilizes two types of robots, EPSON C3-600 (C4-600) and ABB IRB 1090. The EPSON robots are the primary ones used to develop manipulating skills and the final project for students. The ABB robot dedicated to the machine vision exercises in the second half of the semester. 
 ####
 🥈Students start the basic exercises like picking-n-place and stacking with the robot (EPSON), then integrate I/O and accessories to achieve higher-level logical control and manipulating skills. The capability of using a robot is defined in five levels. Each level represents the complexity of the operation the robotic system can handle.
 #### 
