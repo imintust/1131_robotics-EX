@@ -16,7 +16,7 @@ Training materials for the courses **[ME4609301] Introduction to Robotics Tutori
 - Option 2: Autonomous Mobile Robot, Jetbot **(For SI5302701 only)**
   - Build a Jetbot:  https://jetbot.org/master/index.html   
 ## Contents
-#### 1.Exercises:
+#### 1.Exercises (tasks):
   - Basic tasks, Challenging tasks, Final exam tasks (competition), Level of Capability:
 #### 2.Resources:
   - Demo program (pick-n-place), 3D models (End-effector, Fixtures, Tray, token), I/O Wiring diagram, HMI, 3D printer
