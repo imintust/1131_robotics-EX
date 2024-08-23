@@ -23,7 +23,7 @@ Training materials for the courses **[ME4609301] Introduction to Robotics Tutori
 #### 3.Manuals and Reference:
   - EPSON robot, ABB robot (For ME4609301), Jetbot (For SI5302701 course)
 #### 4.Demo Video 
-## 1.Exercises
+## 1. Exercises (Tasks)
 ### :triangular_flag_on_post: Basic and Challenging tasks
 The suggested basic tasks can help students familiarize the setting of the World, Local, and Tool coordinates with the robots and utilize essential functions and commands.
 The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without detailed instructions. Students should use their creativity to leverage the functions and commands they learned in the lectures and robot manuals.
