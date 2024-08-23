@@ -159,7 +159,9 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
    - WEINTEK forum (EPSON): https://forum.weintekusa.com/t/epson/669
    - WEINTEK forum (EPSON)https://forum.weintekusa.com/t/epson-robot/665
    - WEINTEK HMI full course: [https://youtu.be/9YaUIj5ODLw?si=S0883oPlBQHvz60B](https://www.youtube.com/watch?v=PaFW0P7mkN8&list=PLAol9q3JCKsGbLue6MNgywZ9IXAbHMF4O)
-
+- #### Wiring diagram
+  - EPSON
+  - ABB station wiring https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
 # Robot Machine visio Tutorial (ABB)
 ## Software installation - ABB robotstudio
 ### Software RobotStudio Suite:
