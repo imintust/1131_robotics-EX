@@ -16,22 +16,14 @@ Training materials for the courses **[ME4609301] Introduction to Robotics Tutori
 - Option 2: Autonomous Mobile Robot, Jetbot **(For SI5302701 only)**
   - Build a Jetbot:  https://jetbot.org/master/index.html   
 ## Contents
-- Exercises:
-  - Basic tasks
-  - Challenging tasks
-  - Final exam tasks (competition)
-  - Level of Capability:
-- Resources:
-  - Demo program (pick-n-place)
-  - 3D models (End-effector, Fixtures, Tray, token)
-  - I/O Wiring diagram 
-  - HMI
-  - 3D printer
-- Manuals and Reference:
-  - EPSON robot
-  - ABB robot (For ME4609301)
-  - Jetbot (For SI5302701 course)
-## Exercises introduction 
+#### 1.Exercises:
+  - Basic tasks, Challenging tasks, Final exam tasks (competition), Level of Capability:
+#### 2.Resources:
+  - Demo program (pick-n-place), 3D models (End-effector, Fixtures, Tray, token), I/O Wiring diagram, HMI, 3D printer
+#### 3.Manuals and Reference:
+  - EPSON robot, ABB robot (For ME4609301), Jetbot (For SI5302701 course)
+#### 4.Demo Video 
+## Exercises
 ### :triangular_flag_on_post: Basic and Challenging tasks
 The suggested basic tasks can help students familiarize the setting of the World, Local, and Tool coordinates with the robots and utilize essential functions and commands.
 The challenging tasks provide ideas and drill exercises for students to improve their coding and planning skills. These tasks only depicted the targets (specification or functionality) without detailed instructions. Students should use their creativity to leverage the functions and commands they learned in the lectures and robot manuals.
