@@ -108,7 +108,7 @@ To measure the capability of implementation of a robotic project.
 | 01   | Can set coordinates (world, local, tools) and align tool to work cell.| Complete basic tasks, like the six pieces pick-n-place task (one feeder, one fixture, one tray)
 | 02   |Can communicate with a robot to perform selection or make some judgment via I/O or network | manually conduct select feeder, sort token, and block via HMI. (in practice, the robot can communicate to the end effectors ( like a screwdriver, soldering gun, glue nozzle, welding torch, etc.; or machine vision to get the location or OCR information|
 | 03   |Can plan process to handle expected changes| When one feeder is empty, it automatically changes to the other. |
-| 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, can restore system by interference.|
+| 04   |Can handle unexpected changes| When lost power, lost pneumatic, E-Stop, or in case of interference, the system can return to the preabnormal state.|
 | 05   |Can perform continuous operation with auto restore capability response to anomaly detection and continue to operate | Automatically drop the token or block when an anomaly is detected and restored. |  
 
 The goal is to make the robot run automatically without human intervention. The program should also be flexible enough to accommodate various processing changes.  
