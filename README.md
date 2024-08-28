@@ -147,7 +147,10 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
 3. Github: save drawing and files (.pdf)
 4. Reference:
    - Pushbutton Switch:[[reference link](https://www.amazon.com/Latching-Button-Switch-Waterproof-K16-371/dp/B0975WXFTB/ref=sr_1_17_sspa?crid=DO62EE9HW0YB&keywords=16mm%2BPush%2BButton%2BSwitch&qid=1694827804&sprefix=16mm%2Bpush%2Bbutton%2Bswitch%2Caps%2C303&sr=8-17-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1)]
-   - Wiring (suggested: No.1, Button On/ LED on)https://github.com/imintust/1131_robotics-EX/blob/main/IO_box%20wire.png   
+   - Wiring (suggested: No.1, Button On/ LED on)https://github.com/imintust/1131_robotics-EX/blob/main/IO_box%20wire.png
+   - NPN and PNP: https://automation-insights.blog/2018/02/14/an-easy-way-to-remember-pnp-and-npn-sensor-wiring/ 
+![image](https://github.com/user-attachments/assets/d131d2ba-0d2b-4e28-aa58-bfd9216ef3c2)
+  
     
 - #### HMI:
 1. Illustrate wiring diagram
