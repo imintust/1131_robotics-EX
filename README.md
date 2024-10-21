@@ -165,14 +165,16 @@ In this sector, students learn how to illustrate the wiring diagrams for the I/O
   - ABB station wiring https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
 # Robot Machine Vision Tutorial (ABB)
 Exercises:
-**Day 1**
+- Day 1
   - Briefing (Day 1 handout)
   - Install ABB Robot studio
   - Demo pick-and-place (https://youtu.be/RzuO8K04AFg)  
   - Teaching Pendant practice (each team 30 mins)
     - **Work object coordinate** setting practice 
-**Day 2**
-  - 
+ - Day 2
+    - 
+ - Day 3
+   -  
 
 ## Software installation - ABB robotstudio
 ### Software RobotStudio Suite:
