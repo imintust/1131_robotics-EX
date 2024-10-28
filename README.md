@@ -18,7 +18,8 @@ Training materials for the courses **[ME4609301] Introduction to Robotics Tutori
 ## Contents: 
 - Refer to 1121 Robotic course https://github.com/iiotntust/1121robot/tree/main
 - ABB station wiring https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg (suspending)
-# Robot Machine Vision Tutorial (ABB)
+# ABB Robot Tutorial
+## Basic operation and machine vision
 Exercises:
 - Day 1 Basic ABB robot Operation 
   - Briefing (Day 1 handout)
