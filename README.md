@@ -23,13 +23,16 @@ Exercises:
 - Day 1 Basic ABB robot Operation 
   - Briefing (Day 1 handout)
   - Install ABB Robot studio
-  - Demo pick-and-place (https://youtu.be/RzuO8K04AFg)  
+  - Demo pick-and-place
+    - Simulator: https://youtu.be/RzuO8K04AFg; IRB 1090 - https://youtu.be/-G4bnbylSYE  
   - Teaching Pendant practice (each team 30 mins)
     - **Work object coordinate** setting practice 
  - Day 2 Machine Vision
-    -  
+    - Task 1: Tray localization:
+    - Task 2: Token Localization  
  - Day 3
-   -  
+    - optimized the image processing to promote the accuracy
+    - Complete the pick-n-place tasks with machine vision    
 
 ## Software installation - ABB robotstudio
 ### Software RobotStudio Suite:
