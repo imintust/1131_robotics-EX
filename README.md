@@ -69,14 +69,3 @@ https://www.autodesk.com/education/support
 
 ### :small_blue_diamond: CAD files from vendors, Chelic. (Solenoid, Gripper, vacuum nozzle)
 1. Chelic components download: https://chelic.partcommunity.com/
-
-### :small_blue_diamond: EPSON manuals
-## 3.Manual and Reference
-1. EPSON manual:
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://files.support.epson.com/far/docs/epson_rc_pl_70_users_guide-rc700a_rc90_t(v73r4).pdf  
-2. Delta HMI manual: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://filecenter.deltaww.com/Products/download/06/060302/Manual/DELTA_IA-HMI_DOPSoft_UM_EN_20211230.pdf
-### :small_blue_diamond: Demo video
-1. Calibration exercise: local/tool coordinates calibration: https://youtu.be/TOrHTE-4aC4
-2. Task 1: pick and place (feeder-->fixture-->tray): https://youtu.be/XQcib0vzzIk
-3. Task 2: Stacking https://youtu.be/oQTrqzth1_I
-4. I/O box assembly: https://youtu.be/_gBvWF14sqk
