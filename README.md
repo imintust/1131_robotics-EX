@@ -40,11 +40,10 @@ Exercises:
 - https://new.abb.com/products/robotics/robotstudio
 ## Hardware Robot - ABB IRB 1090
 ### :small_blue_diamond: Schematic and I/O Wiring diagram 
-- Schematic: 
+- Schematic: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
 - I/O Wiring diagram:  https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/ABB_Wire.png
 ### :small_blue_diamond: ABB Robot Manuals
-1. Robot Manual:https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
-    https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
+1. Robot Manual: https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
 ## Controller OmniCore E10 Controller:
 - https://new.abb.com/products/robotics/controllers/omnicore/omnicore-e10
 
