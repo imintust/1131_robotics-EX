@@ -39,6 +39,9 @@ Exercises:
 ### Software RobotStudio Suite:
 - https://new.abb.com/products/robotics/robotstudio
 ## Hardware Robot - ABB IRB 1090
+### :small_blue_diamond: Schematic and I/O Wiring diagram 
+- Schematic:
+- I/O Wiring diagram:  
 ### :small_blue_diamond: ABB Robot Manuals
 1. Robot Manual:
     https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
