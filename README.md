@@ -34,10 +34,10 @@ Exercises:
     - optimized the image processing to promote the accuracy
     - Complete the pick-n-place tasks with machine vision    
 
-## Software installation - ABB robotstudio
-### Software RobotStudio Suite:
+### Software installation - ABB robotstudio
+#### Software RobotStudio Suite:
 - https://new.abb.com/products/robotics/robotstudio
-## Hardware Robot - ABB IRB 1090
+### Hardware - ABB IRB 1090 Robot
 ### :small_blue_diamond: Schematic and I/O Wiring diagram 
 - Schematic: https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg
 - I/O Wiring diagram:  https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/ABB_Wire.png
