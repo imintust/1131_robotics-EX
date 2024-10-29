@@ -15,9 +15,8 @@ Training materials for the courses **[ME4609301] Introduction to Robotics Tutori
   2. Random tokens (in Field of Vision) to Tray: Use the camera to identify the three tokens and three blocks randomly spread on the platform, pick them up, and place them back on the tray.  
 - Option 2: Autonomous Mobile Robot, Jetbot **(For SI5302701 only)**
   - Build a Jetbot:  https://jetbot.org/master/index.html   
-## Contents: 
+## EPSON Robot Contents: 
 - Refer to 1121 Robotic course https://github.com/iiotntust/1121robot/tree/main
-- ABB station wiring https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/schematic.jpg (suspending)
 # ABB Robot Tutorial
 ## Basic operation and machine vision
 Exercises:
