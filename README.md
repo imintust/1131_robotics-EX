@@ -43,12 +43,7 @@ Exercises:
 - I/O Wiring diagram:  https://github.com/imintust/1131_robotics-EX/blob/main/ABB_wire/ABB_Wire.png
 ### :small_blue_diamond: ABB Robot Manuals
 1. Robot Manual: https://new.abb.com/products/robotics/robots/articulated-robots/irb-1090
-2. Controller OmniCore E10 Controller:
-- https://new.abb.com/products/robotics/controllers/omnicore/omnicore-e10
-
-
-
-
+2. Controller OmniCore E10 Controller:https://new.abb.com/products/robotics/controllers/omnicore/omnicore-e10
 ## :feet: Resources (CAD files, manuals):
 CAD software, files, and manuals.
 ### :small_blue_diamond: CAD software
