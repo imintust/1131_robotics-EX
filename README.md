@@ -33,7 +33,6 @@ Exercises:
  - Day 3
     - optimized the image processing to promote the accuracy
     - Complete the pick-n-place tasks with machine vision
-Demo video: pick-n-place  https://www.youtube.com/playlist?list=PLTasf8JwqiSTZKnwJzbaes22rSKV4G58G  
 
 ### Software installation - ABB robotstudio
 #### Software RobotStudio Suite:
